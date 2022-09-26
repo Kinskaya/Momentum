@@ -1,2 +1,1 @@
-# Momentum
-JS task
+# stage1-tasks
